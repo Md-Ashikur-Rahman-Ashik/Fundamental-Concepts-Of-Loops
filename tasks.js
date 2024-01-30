@@ -74,8 +74,58 @@
 // }
 
 // Fifth task
-let num = 21;
-while(num <= 21 && num >= 15){
-    console.log(num);
-    num--;
+// let num = 21;
+// while(num <= 21 && num >= 15){
+//     console.log(num);
+//     num--;
+// }
+
+// Tasks of for loop
+// First task
+
+// for(let i = 1; i <= 60; i++){
+//     console.log("I will invest at least 6 hrs every single day for next 60 days!");
+// }
+
+// Second task
+
+// First subtask
+// for(let i = 61; i <= 100; i = i + 2){
+//     console.log("The odd numbers from 61 to 100 is:", i);
+// }
+
+// Second subtask
+// for(let i = 78; i <= 98; i = i + 2){
+//     console.log("Here the even number is:", i);
+// }
+
+// Third task
+
+// First subtask
+// let sum = 0;
+// for(let i = 91; i <= 129; i = i + 2){
+//     sum = sum + i;
+//     console.log("Here the odd number is:", i);
+// }
+// console.log("The sum of all the odd numbers from 91 to 129 is:", sum);
+
+// Second subtask
+// let sum = 0;
+// for(let i = 52; i < 85; i = i + 2){
+//     console.log("Here, the even number is:", i);
+//     sum = sum + i;
+// }
+// console.log("The sum of all the even numbers from 51 to 85 is:", sum);
+
+// Fourth task
+// let num = 9;
+// let multiple;
+// for(let i = 1; i <= 10; i++){
+//     multiple = (num * i);
+//     console.log(num, "*" , i,"=" , multiple);
+// }
+
+// Fifth task
+for(let i = 81; i >= 65; i--){
+    console.log(i);
 }
